@@ -1,14 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "Note Taker",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hfranz1/Note-Taker.git"
+  },
+  "keywords": [
+    "Note",
+    "Taker"
+  ],
+  "author": "Hannah Franz",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "bugs": {
+    "url": "https://github.com/Hfranz1/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/Hfranz1/Note-Taker#readme"
 }
