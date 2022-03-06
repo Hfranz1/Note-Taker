@@ -33,6 +33,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock up
 The following images show the web application's appearance and functionality:
 
+https://user-images.githubusercontent.com/87962035/156909940-95d2fcb6-6c03-48c9-b5f9-998fa6504435.mov
+
 
 ## Links
 GitHub Link: 
