@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Hfranz1/Note-Taker/issues"
   },
-  "homepage": "https://github.com/Hfranz1/Note-Taker#readme"
+  "homepage": "https://github.com/Hfranz1/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
