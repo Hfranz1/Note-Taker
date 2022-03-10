@@ -4,7 +4,16 @@
   This application will use an Express.js vackend and will save and retrieve note data fram a JSON file.
   
   ## Installation
-  To install this project with a necessary dependencies run the following command: npm install
+  To install this project with a necessary dependencies run the following commands: 
+  ```
+  npm install
+  ```
+  ```
+  npm i express
+  ```
+  ```
+  node server
+  ```
   
   ## User Story
   ```
@@ -33,12 +42,15 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock up
 The following images show the web application's appearance and functionality:
 
-https://user-images.githubusercontent.com/87962035/156909940-95d2fcb6-6c03-48c9-b5f9-998fa6504435.mov
-
+https://drive.google.com/file/d/1XV-J6FgQ8inOcbdytOp8wTX6jxnDrXWD/view
 
 ## Links
+<p>
 GitHub Link:  https://github.com/Hfranz1/Note-Taker
+</p>
+<p>
 Heroku: https://note-taker2222.herokuapp.com/notes
+</p>
 
 ## Questions
 If you have questions, please contact me at hannahfranz25@gmail.com or find me at https://github.com/Hfranz1.
